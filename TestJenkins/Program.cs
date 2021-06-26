@@ -15,6 +15,7 @@ namespace TestJenkins
         {
             Console.WriteLine("Date Time:"+DateTime.Now);
             Console.WriteLine("Date Time:" + DateTime.Now);
+            Console.WriteLine("Date Time:" + DateTime.Now);
             CreateHostBuilder(args).Build().Run();
         }
 
