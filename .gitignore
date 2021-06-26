@@ -3,3 +3,5 @@
 ################################################################################
 
 /TestJenkins/bin/Debug/netcoreapp3.1
+/.vs/TestJenkins/v16
+/TestJenkins/obj
