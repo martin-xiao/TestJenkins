@@ -13,6 +13,7 @@ namespace TestJenkins
     {
         public static void Main(string[] args)
         {
+            Console.WriteLine("Date Time:"+DateTime.Now);
             CreateHostBuilder(args).Build().Run();
         }
 
